@@ -24,7 +24,7 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=Irdalezig&repo=myFirst-webSite&show_owner=true&theme=dracula)](https://github.com/Irdalezig/myFirst-webSite)
 
 <!---
 - I'm new here
